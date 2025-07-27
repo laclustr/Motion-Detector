@@ -16,4 +16,7 @@ Works by detecting objects within a certain distance; if they are too close, a b
 ## Build
 To build the project, open it in terminal and run `platformio run --target upload --upload-port /dev/cu.usbserial-0001` (change `/dev/cu.usbserial-0001` to the correct port).
 
-## Pictures & Demo Video
+## Picture & Demo Video
+![Device Picture](media/device.jpg)
+
+[Demo Video](media/demo.mp4)
