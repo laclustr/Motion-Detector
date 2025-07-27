@@ -1,6 +1,8 @@
 # Motion Detector
 Works by detecting objects within a certain distance; if they are too close, a buzzer will go off. The sensitivity can be adjusted via a rotary dial, and the system can be enabled/disabled with the press of a button. An indicator light has been added to show status of the device (enabled/disabled).
 
+Another feature is that because it uses ultrasonic beams, it causes audio distortion for microphones. Check out the demo video and you can hear it.
+
 ## Pinout Scheme
 ```
   LED Pin - 6
