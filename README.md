@@ -3,6 +3,20 @@ Works by detecting objects within a certain distance; if they are too close, a b
 
 Another feature is that because it uses ultrasonic beams, it causes audio distortion for microphones. Check out the demo video and you can hear it.
 
+## Hardware Details
+This project was built using a grove kit:
+```
+- 1 Grove Base Shield
+- 5 Grove Cables
+- 1 Grove Ultrasonic Ranger
+- 1 Grove Buzzer
+- 1 Grove LED Module
+- 1 Grove Button
+- 1 Grove Rotary Potentiometer
+- 1 Case (Find case.stl in root directory)
+- Double Sided Tape (Holds case together and attaches parts)
+```
+
 ## Pinout Scheme
 ```
   LED Pin - 6
